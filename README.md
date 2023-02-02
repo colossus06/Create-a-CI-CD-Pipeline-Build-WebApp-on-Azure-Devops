@@ -32,6 +32,17 @@ dotnet build HelloWorldApp.Web.csproj --configuration Release
 
 Here is our artifact.
 
+
+
+Since i got `##[error]No hosted parallelism has been purchased or granted` error i setup my self-hosted agent. If you have parallel jobs, you can skip this step. 
+
+### Running your self-hosted agent
+
+https://www.bmc.com/blogs/azure-devops-build-release-agents/
+
+You can follow the steps here.
+
+
 ## Creating a pipeline on azure devops
 
 ![image](https://user-images.githubusercontent.com/96833570/216350101-61482c18-d2f8-479b-9129-be6758cb2b94.png)
@@ -42,4 +53,11 @@ Here is our artifact.
 
 ![image](https://user-images.githubusercontent.com/96833570/216353102-0d86cd6a-f1b6-43e9-8446-b14296d362b5.png)
 
+
+`--configuration $(BuildConfiguration) --output $(Build.ArtifactStagingDirectory)`
+
+![image](https://user-images.githubusercontent.com/96833570/216354253-667412e8-2dd5-4b98-98c2-87555ef4b177.png)
+
+
+![image](https://user-images.githubusercontent.com/96833570/216354588-517f96ac-861b-4f7a-8058-3ef9dc0abfce.png)
 
