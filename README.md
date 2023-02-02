@@ -61,3 +61,19 @@ You can follow the steps here.
 
 ![image](https://user-images.githubusercontent.com/96833570/216354588-517f96ac-861b-4f7a-8058-3ef9dc0abfce.png)
 
+
+## Make sure your agent is online and save&queue 
+
+![image](https://user-images.githubusercontent.com/96833570/216365137-d9906c12-5a7b-4f03-acb4-e3021b8ffb38.png)
+
+
+![image](https://user-images.githubusercontent.com/96833570/216365090-436ec904-d66a-4f7d-828b-5a339013171f.png)
+
+## Debugging
+
+![image](https://user-images.githubusercontent.com/96833570/216368869-f6054aaa-7269-4ad3-b008-349ce86c8102.png)
+
+
+![image](https://user-images.githubusercontent.com/96833570/216365303-a4fa0b0c-0f74-4fc9-9e6c-05ae961b58ea.png)
+
+![image](https://user-images.githubusercontent.com/96833570/216369067-d42e3330-9d80-487b-9014-9df427fa65a6.png)
