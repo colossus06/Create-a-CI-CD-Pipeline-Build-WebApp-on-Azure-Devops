@@ -1,4 +1,4 @@
-# Create-a-CI Pipeline-Build-and-Deploy-.Net-WebApp-on-Azure-Devops
+# Create-a-CI Pipeline-Build .Net-WebApp-on-Azure-Devops
 
 ## CI 
 
