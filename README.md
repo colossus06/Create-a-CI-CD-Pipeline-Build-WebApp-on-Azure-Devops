@@ -85,4 +85,13 @@ You can follow the steps here.
 
 
 
+## CD 
+
+![image](https://user-images.githubusercontent.com/96833570/216542715-f3b35a99-1903-440f-8575-ed0f8c4971b5.png)
+
+![image](https://user-images.githubusercontent.com/96833570/216552663-397b7c2e-7257-47a6-9202-3211972873eb.png)
+
+![image](https://user-images.githubusercontent.com/96833570/216552758-f8d8ce24-424d-47f5-a6d3-2b6dc66d2283.png)
+
+
 
