@@ -94,4 +94,13 @@ You can follow the steps here.
 ![image](https://user-images.githubusercontent.com/96833570/216552758-f8d8ce24-424d-47f5-a6d3-2b6dc66d2283.png)
 
 
+![image](https://user-images.githubusercontent.com/96833570/216553396-f4d886b8-5880-4f30-9461-c13346140260.png)
 
+## Enabling Continious Integration and Deployment Triggers
+
+![image](https://user-images.githubusercontent.com/96833570/216555194-e3d507bf-f0ec-4b10-bc37-c10ac911fa63.png)
+
+
+![image](https://user-images.githubusercontent.com/96833570/216555654-1869669a-78fd-4a27-a1b8-230f8daf345e.png)
+
+## Final Validation
