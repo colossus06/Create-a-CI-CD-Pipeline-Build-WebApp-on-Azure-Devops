@@ -1,6 +1,6 @@
-# Create-a-CI-CD-Pipeline-Build-and-Deploy-.Net-WebApp-on-Azure-Devops
+# Create-a-CI Pipeline-Build-and-Deploy-.Net-WebApp-on-Azure-Devops
 
-## Prerequisites
+## CI 
 
 Create an organization, project and push local repo to azure repos
 
@@ -66,12 +66,13 @@ You can follow the steps here.
 
 ![image](https://user-images.githubusercontent.com/96833570/216365137-d9906c12-5a7b-4f03-acb4-e3021b8ffb38.png)
 
+![image](https://user-images.githubusercontent.com/96833570/216425935-e2d1256b-eee5-4c8b-8283-e17c5f20f643.png)
 
 ![image](https://user-images.githubusercontent.com/96833570/216424971-ca914f93-25a7-4d6a-9211-f4f396ebf2e3.png)
 
-![image](https://user-images.githubusercontent.com/96833570/216425935-e2d1256b-eee5-4c8b-8283-e17c5f20f643.png)
 
-## Validation Step 1 
+
+## CI Validation
 
 ![image](https://user-images.githubusercontent.com/96833570/216427734-6cd111a7-ebbc-4113-bff9-f3e4062121bc.png)
 
@@ -80,5 +81,8 @@ You can follow the steps here.
 ![image](https://user-images.githubusercontent.com/96833570/216428006-feaf936a-5aa3-4b8a-ac7b-ada58c28fd98.png)
 
 ![image](https://user-images.githubusercontent.com/96833570/216428058-cdded9e2-f1ea-4e67-957d-c07fcffb8437.png)
+
+
+
 
 
