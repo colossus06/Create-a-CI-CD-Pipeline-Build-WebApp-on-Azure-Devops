@@ -1,4 +1,4 @@
-# Create-a-CI Pipeline-Build .Net-WebApp-on-Azure-Devops
+# Create-a-CI-CD Pipeline-Build .Net-WebApp-on-Azure-Devops
 
 ![image](https://user-images.githubusercontent.com/96833570/219877766-570ae166-de6c-4219-ac70-e05d7e4d26ed.png)
 
